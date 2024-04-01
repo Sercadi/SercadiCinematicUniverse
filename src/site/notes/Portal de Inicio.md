@@ -10,9 +10,9 @@ Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematogr�
 >[!SUMMARY] Tabla de Contenido
 
 >- [[Portal de Inicio#Universo Principal (1999999)\|Universo Principal (1999999)]]
->    - [[Portal de Inicio#Fase 1: \|Fase 1: ]]
->    - [[Portal de Inicio#Fase 2: \|Fase 2: ]]
->    - [[Portal de Inicio#Fase 3:\|Fase 3:]]
+>    - [[Portal de Inicio#Fase 1\|Fase 1]]
+>    - [[Portal de Inicio#Fase 2\|Fase 2]]
+>    - [[Portal de Inicio#Fase 3\|Fase 3]]
 >    - [[Portal de Inicio#Fase 4\|Fase 4]]
 >    - [[Portal de Inicio#Fase 5\|Fase 5]]
 >    - [[Portal de Inicio#Fase 6 \|Fase 6 ]]
@@ -39,7 +39,7 @@ Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematogr�
 >    - [[Portal de Inicio#Línea Temporal Principal (Hasta 2023)\|Línea Temporal Principal (Hasta 2023)]]
 >    - [[Portal de Inicio#Línea Temporal TRN414\|Línea Temporal TRN414]]
 >- [[Portal de Inicio#Universo 17315\|Universo 17315]]
->    - [[Portal de Inicio#Multiverso \|Multiverso ]]
+>- [[Portal de Inicio#Multiverso \|Multiverso ]]
 
 
 
