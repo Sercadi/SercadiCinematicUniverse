@@ -3,7 +3,7 @@
 ---
 
 
-![Sercadimcu.png](/img/user/Sercadimcu.png)
+![Sercadimcu.png|center](/img/user/Sercadimcu.png)
 Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematográfico de Marvel basado en proyectos actuales y donde uso los elementos de Marvel Comics para hacerlo.
 
 
@@ -607,7 +607,7 @@ Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematogr�
 { .block-language-dataview}
 
 
-## Multiverso 
+# Multiverso 
 
 - [[HISTORIAS/Marvel/Otros Universos/Multiverso/0 - What If Spider-Man Version\|0 - What If Spider-Man Version]]
 - [[HISTORIAS/Marvel/Otros Universos/Multiverso/1 - Spider-Man Shattered Dimensions\|1 - Spider-Man Shattered Dimensions]]
