@@ -3,7 +3,7 @@
 ---
 
 
-![Sercadimcu.png|center](/img/user/Sercadimcu.png)
+![Sercadicinematicuniverse.png|center](/img/user/Sercadicinematicuniverse.png)
 Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematográfico de Marvel basado en proyectos actuales y donde uso los elementos de Marvel Comics para hacerlo.
 
 
