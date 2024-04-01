@@ -48,7 +48,7 @@ Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematogr�
 
 
 
-## Fase 1: 
+## Fase 1
 
 - [[HISTORIAS/Marvel/Universo Principal/Fase 1/1 - Iron Man\|1 - Iron Man]]
 - [[HISTORIAS/Marvel/Universo Principal/Fase 1/2 - The Incredible Hulk\|2 - The Incredible Hulk]]
@@ -63,7 +63,7 @@ Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematogr�
 
 { .block-language-dataview}
 
-## Fase 2: 
+## Fase 2
 
 - [[HISTORIAS/Marvel/Universo Principal/Fase 2/1 - Iron Man 3\|1 - Iron Man 3]]
 - [[HISTORIAS/Marvel/Universo Principal/Fase 2/2 - Thanos y sus Hijos\|2 - Thanos y sus Hijos]]
@@ -88,7 +88,7 @@ Bienvenidos a mi página de fanfics donde fusiono mi propio universo cinematogr�
 
 { .block-language-dataview}
 
-## Fase 3:
+## Fase 3
 
 - [[HISTORIAS/Marvel/Universo Principal/Fase 3/1 - Capitán América Civil War\|1 - Capitán América Civil War]]
 - [[HISTORIAS/Marvel/Universo Principal/Fase 3/2 - Doctor Strange\|2 - Doctor Strange]]
