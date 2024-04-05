@@ -13,8 +13,6 @@
 
 Año 2012.
 
-## Combates
-
 ## Localizaciones
 
 - Tierra
@@ -30,37 +28,107 @@ Año 2012.
 
 ### Principales
 
-- Peter Parker (Spider-Man)
+
+![actor-andrew-garfield-375678_large.jpg|150](/img/user/IMAGENES/CAST/actor-andrew-garfield-375678_large.jpg) ![maxcharles.jpg|140](/img/user/IMAGENES/CAST/maxcharles.jpg)
+- Peter Parker (Spider-Man) - Andrew Garfield y Max Charles (4 años)
 
 ### Secundarios
 
- - Gwen Stacy
-- <mark style="background: #FF5582A6;">George Stacy (Muere en la batalla final)</mark>
-- <mark style="background: #FF5582A6;">Ben Parker (Es asesinado por el ladrón de la tienda)</mark>
-- Eddie Brock Jr (Añadido por Mí)
-- Flash Thompson
-- May Parker
-- Richard Parker
-- Billy Connors
-- Mary Parker
-- Norman Osborn
-- Harry Osborn
-- Edward Brock 
+![Emma_Stone_at_Maniac_UK_premiere_(cropped).jpg.png|150](/img/user/IMAGENES/CAST/Emma_Stone_at_Maniac_UK_premiere_(cropped).jpg.png)
+
+- Gwen Stacy - Emma Stone
+
+![denisleary.jpg|150](/img/user/IMAGENES/CAST/denisleary.jpg)
+
+- <mark style="background: #FF5582A6;">George Stacy (Muere en la batalla final)</mark> - Denis Leary
+
+![martinsheen.jpg|150](/img/user/IMAGENES/CAST/martinsheen.jpg)
+
+- <mark style="background: #FF5582A6;">Ben Parker (Es asesinado por el ladrón de la tienda)</mark> - Martin Sheen
+
+![tomhardy.jpg|150](/img/user/IMAGENES/CAST/tomhardy.jpg)
+
+- Eddie Brock Jr - Tom Hardy
+
+![chryszilka.jpg|150](/img/user/IMAGENES/CAST/chryszilka.jpg)
+
+- Flash Thompson - Chrys Zilka
+
+![sallyfield.jpg|150](/img/user/IMAGENES/CAST/sallyfield.jpg)
+
+- May Parker - Sally Field
+
+![embethdavidtz.jpg|150](/img/user/IMAGENES/CAST/embethdavidtz.jpg)
+
+
+- Mary Parker - Embeth Davidtz
+
+![campbellscott.jpg|150](/img/user/IMAGENES/CAST/campbellscott.jpg)
+
+
+- Richard Parker - Campbell Scott
+
+![mileseliiot.jpg|150](/img/user/IMAGENES/CAST/mileseliiot.jpg)
+
+- Billy Connors - Miles Elliot
+
+![chriscooper.jpg|150](/img/user/IMAGENES/CAST/chriscooper.jpg)
+
+
+- Norman Osborn - Chris Cooper
+
+![danedehaan.jpg|150](/img/user/IMAGENES/CAST/danedehaan.jpg)
+
+- Harry Osborn - Dane Dehaan
+
+
+- <mark style="background: #CACFD9A6;">Edward Brock (Mencionado)</mark>
+
 - Daily Bugle
-	- J.Jonah Jameson (Mencionado)
+
+		![johncmcginley.jpg|150](/img/user/IMAGENES/CAST/johncmcginley.jpg)
+	- J.Jonah Jameson (Mencionado) - John C. McGinley
+
+
+![robertpattinson.jpg|150](/img/user/IMAGENES/CAST/robertpattinson.jpg)
+
+- Matt Murdock (Mencionado, Candidato a la Alcaldía de NY) - Robert Pattinson
+
+
+![stanlee.jpg|150](/img/user/IMAGENES/CAST/stanlee.jpg)
+
+- Stan Lee 
 
 ### Villanos
 
-- <mark style="background: #CACFD9A6;">Curt Connors (Lagarto) (Encerrado en Ravencroft al final de la película)</mark>
-- <mark style="background: #FF5582A6;">Rajit Ratha (Es comido por el Lagarto)</mark>
-- <mark style="background: #CACFD9A6;">Herman Schultz (Ladrón de la Tienda/Shocker) (Encerrado en Ryker)</mark>
+![rhysifans.jpg|150](/img/user/IMAGENES/CAST/rhysifans.jpg)
+
+- <mark style="background: #CACFD9A6;">Curt Connors (Lagarto) (Encerrado en Ravencroft al final de la película) - Rhys Ifans</mark>
+
+![irrfankhan.jpg|150](/img/user/IMAGENES/CAST/irrfankhan.jpg)
+
+- <mark style="background: #FF5582A6;">Rajit Ratha (Es comido por el Lagarto)</mark> - Irrfan Khan
+
+![leifgantvoort.jpg|150](/img/user/IMAGENES/CAST/leifgantvoort.jpg)
+
+- <mark style="background: #CACFD9A6;">Herman Schultz (Ladrón de la Tienda/Shocker) (Encerrado en Ryker)</mark> - Leif Gantvoort
+
+
 
 
 ### Post-Créditos
 
-- Gustav Fiers (Aparece en la Post-Créditos hablando con Connors en Ravencroft sobre el secreto de los Parker).
-- Doctor Mendell Stromm (Es el científico que le muestra a Harry la Fórmula Oz junto a su padre)
-- Otto Octavius (Foto y Mención)
+![michaelmassee.jpg|150](/img/user/IMAGENES/CAST/michaelmassee.jpg)
+
+- Gustav Fiers (Aparece en la Post-Créditos hablando con Connors en Ravencroft sobre el secreto de los Parker) - Michael Massee
+
+![jeffreycombs.jpg|150](/img/user/IMAGENES/CAST/jeffreycombs.jpg)
+
+- Doctor Mendell Stromm (Es el científico que le muestra a Harry la Fórmula Oz junto a su padre) - Jeffrey Combs
+
+![jeffreywright.jpg|150](/img/user/IMAGENES/CAST/jeffreywright.jpg)
+
+- Otto Octavius (Foto y Mención) - Jeffrey Wright
 
 ## Historia
 
@@ -82,7 +150,7 @@ Año 2012.
 - Connors en Oscorp rechaza en darle la fórmula de regeneración de extremidades a Rajit para salvar la vida de Norman ya que según Rajit esta fórmula podría terminar de curar la enfermedad de Norman, Rajit la coge igualmente y se va hacía la mansión de Osborn, Connors decide inyectarse la fórmula a si mismo ya que necesitaba probar como de efectiva sería en realidad, Connors perdió la cordura y se convirtió en el Lagarto y deseoso de matar a Rajit se va tra el donde le dejá atrapado en el puente Queensboro.
 - Cuando Peter acepta la invitación de Gwen a cenar, conoce a su familia y comenta con su padre que "Spider-Man" era un héroe, no un justiciero. Esto molesta a George, quien insiste en que no era más que un punk con una máscara. Después de una breve discusión, él y Gwen se van a "tomar un poco de aire fresco" a la azotea. Aquí, le revela a Gwen que él es Spider-Man y se besan, pero pronto se marcha en respuesta a un informe policial en el puente Queensboro. Allí, Peter se enfrenta a una gran criatura reptil, conocida como el Lagarto. Derriba al Lagarto, pero no puede luchar contra él, mientras rescata a un niño pequeño de un coche en llamas junto al coche de Rajit. Fue aquí donde Peter toma el nombre de Spider-Man y el público se vuelve ampliamente consciente de él. Rajit se descubrió más tarde que murió con el cuerpo destrozado en pedazos.
 - J.Jonah Jameson hace eco de las noticias en el Daily Bugle y acosa al nuevo vigilante al que llaman Spider-Man diciendo que un enmascarado nunca será un héroe. Peter se sorprende de que hayan hablado de el, Gwen le enseño el periodico y lo vió. 
-- Harry esa misma noche pasa el tiempo con su padre Norman que andaba en una muleta y estaba super demacrado, Norman le agradece que haya venido ya que tiene un trabajo importante para el, quiere que esté con el hasta el momento de su muerte, Harry no entiende porqué, Norman le revela que tenía una enfermedad en el cuerpo y tenía esperanza de vida de 1 año, hay una posible cura pero en Oscorp, además quiere entregarle el trabajo de su vida, Connors está trabajando en la cura. Harry se pone triste al escuchar esto pero decide irse a la cama ya que estaba cansado del viaje
+- Harry esa misma noche pasa el tiempo con su padre Norman que andaba en una muleta y estaba super demacrado, Norman le agradece que haya venido ya que tiene un trabajo importante para el, quiere que esté con el hasta el momento de su muerte, Harry no entiende porqué, Norman le revela que tenía una enfermedad en el cuerpo y tenía esperanza de vida de 1 año, hay una posible cura pero en Oscorp, además quiere entregarle el trabajo de su vida, Connors está trabajando en la cura. Harry se pone triste al escuchar esto pero decide irse a la cama ya que estaba cansado del viaje, antes de dormir, el corazón le empieza a doler y la mano a temblar, el sin entender nada, al rato se le pasa y se va a dormir.
 - Esa misma noche, Peter investiga sobre el caso de su padre y en efecto descubrió que Edward, también era uno de esos grandes científicos de NY y además Norman lo era también, no solo eso, sino que era el jefe de los 3 y que estuvo en tratos de dinero para salvar las enfermedades del mundo con sus experimentos incluido una suya propia que en varios portales, dijo que era hereditaria, piensa de inmediato en Harry ya que podría estar en peligro su vida. También vio algo sobre un proyecto al que Norman llamaba simplemente Oz, un suero para uso militar pero no le dió mucha importancia.
 - Harry a la mañana siguiente llama a Peter y quedan ya que le dice que volvío de Europa para cuidar a su padre, tienen una buena charla sobre su regreso, el famoso Spider-Man que había aparecido hace poco y que Harry veía buena idea ya que hacían falta héroes en la ciudad y que su padre estaba muriendo, Peter sentía mucho que Norman fuera a morir (sabía mucho más gracias a internet). Harry se anima un poco con el y conoce a Gwen Stacy, la cual se hace amiga de el bastante rápido diciendo que trabajaba en Oscorp y Harry se pone feliz de que haya otra cerebrito. Harry le dice a Peter que quiere ir a hablar con Connors si se puede. Peter acepta ya que puede ser que encuentre respuestas ya que desde la noche anterior no supo nada de el, pero si su jefe fue asesinado en las circustancias del puente.
 
@@ -95,14 +163,15 @@ Año 2012.
 - En Oscorp, Spider-Man llega para luchar contra el Lagarto, pero su cola lo detiene. El Capitán Stacy llega y ayuda a Spider-Man disparándole al Lagarto, aturdiéndolo. Peter usa nitrógeno líquido para congelar al Lagarto, haciéndolo más vulnerable. Se las arregla para llegar al dispositivo químico y cambiar el suero de reptil por el antídoto que habían preparado Gwen y Eddie. El Lagarto finalmente asesina al Capitán Stacy e intenta detener a Peter, pero falla, y la nube del antídoto devuelve al Lagarto a Curt Connors.
 - Mientras el Capitán Stacy agoniza, Peter se ve obligado a prometerle que no volverá a ver a Gwen para mantenerla fuera de peligro. Peter asiste al funeral del Capitán Stacy, allí Eddie y Harry también asisten y le dan el pésame a Gwen, Peter ignora a Gwen los días siguientes por petición de su padre. Peter finalmente le dice a Gwen que todo había terminado, pero ella rápidamente se da cuenta de que su padre fue la razón de esto. Al día siguiente, en la escuela, un maestro le dice a Peter que no haga promesas que no pueda cumplir en respuesta a su tardanza. Peter le susurra a Gwen, "pero esos son los mejores", revelando que volvería a estar con ella.
 - Harry esa misma noche está pensando en todo de lo que le dijo su padre y en lo de Connors mientras se tomaba una copa de vino hasta que Norman le hace llamar y avisa a su mayordomo de que preparara el coche para ir a Oscorp avisando a Harry de que irian ambos a ver algo que realmente necesita saber. Harry se extraña pero asiente.
-- Vuelve a pasear por la ciudad esa noche, en respuesta a un informe policial de un atraco a un banco donde un misterioso hombre con unos guantes que se llama asi mismo Shocker se enfrenta a Spider-Man, allí Peter con su velocidad logra tirarle una viga en la cabeza y termina siendo derrotado, el hombre se quita la máscara y revela ser el asesino del tío Ben, el hombre le dice que solo lo hacía por dinero, por acabar con el, Peter pregunta quien le dió la orden, el no reveló sus fuentes y la policía llegó marchándose, no sin antes ver en los guantes el emblema de Oscorp preguntándose que tiene que ver Norman y Harry con el asesino de su tío, Peter sube en lo alto de un edificio hablando sobre la responsabilidad y la cantidad de gente que había conocido, sin embargo nunca podría respetar la orden que le dio Stacy antes de morir, mientras vuela con una Final Swing y llega el final de la película.
+- Vuelve a pasear por la ciudad esa noche, en respuesta a un informe policial de un atraco a un banco donde un misterioso hombre con unos guantes que se llama asi mismo Shocker se enfrenta a Spider-Man, allí Peter con su velocidad logra tirarle una viga en la cabeza y termina siendo derrotado, el hombre se quita la máscara y revela ser el asesino del tío Ben, el hombre le dice que solo lo hacía por dinero, por acabar con el, Peter pregunta quien le dió la orden, el no reveló sus fuentes y la policía llegó marchándose, no sin antes ver en los guantes el emblema de Oscorp preguntándose que tiene que ver Norman y Harry con el asesino de su tío. El juicio para Connors y Herman sale y ambos son condenados a Prisión Permanente en Rykers por los daños causados y Billy Connors es enviado con una familia de acogida. Peter trabaja en un nuevo traje a escondidas de la Tía May, creando el traje con los ojos blancos y mucho mas rojo y azul.
+- Peter sube en lo alto de un edificio con su nuevo traje hablando sobre la responsabilidad y la cantidad de gente que había conocido, sin embargo nunca podría respetar la orden que le dio Stacy antes de morir, mientras vuela con una Final Swing y llega el final de la película.
 
 
 ### Escenas Post-Créditos
 
 - 1º: Connors, en su celda de la prisión Ryker, recibe la visita de un hombre que le dice: "Hola doctor. ¿Se lo dijo al chico?". Connors responde "¿Decirle qué?" "¿Le dijiste al niño la verdad sobre su padre?" Connors responde "No" y luego exige que deje a Peter en paz antes de que el visitante se vaya. 
 - 2º: Harry y su padre llegan a Oscorp por la noche y allí no hay nadie, bajan por el ascensor de servicio hasta una planta llamada "Proyectos Especiales", allí Harry le pregunta que hacen aquí, Norman le dice que le quiere presentar algo: pulsa el botón y allí se abren 4 compuertas de vidrio con diferentes elementos: unos brazos mecánicos, un traje volador, una especie de masa viscosa negra y una cápsula con un suero. Aquí Norman le presenta al Doctor Mendell Stromm y le enseña el trabajo secreto de toda su vida, el suero que pensaba que podría curarle, Connors solo cogió su base y la reutilizó transformándole en lo que se convirtió, Norman no cree que haya esperanza para el y le ordena que el mismo termine su trabajo, este suero estaba preparándose para uso militar y por lo tanto tendría que ser terminado, Harry le dice que como no contó esto antes y de quienes eran los otros prototipos, Norman se acerca a su mesa del laboratorio y le señala una lista de nombres, Harry los lee acordándose especialmente de uno: Otto Octavius. Norman le dice a Harry que ese proyecto de uso militar lo llamó Compuesto Oz, además Mendell Stromm era su ayudante de pruebas hasta que no pudo andar mucho más tiempo por su cuenta. También Norman le presenta a Gustav Fiers, un hombre vestido de negro que venía de hablar con Connors en general y sobre Peter. 
-- De esto no se entera Harry que andaba viendo el proyecto de su padre, Norman le dice a Harry que Gustav es un hombre de negocios muy importante y que el día que no esté, Gustav deberá hacerle caso a Harry en todas las ordenes asintiendo Gustav. Allí aparece de pronto el hombre que asesinó al tío Ben hablando Norman con el y Harry no sabía quien era pero le sonaba familiar, Norman y Gustav les dice que tendrá que acabar con esa molesta araña ya que podría molestarle en sus planes así que le dan unos guantes extraños y un traje y les dice que el se las ingenie para atraer al hombre araña y que le pagan muy bien: Herman Schultz, le dijeron. Herman les dice que está bien y se va a hacer su trabajo. Norman se marcha con Harry pero se detienen y Norman toca el hombro de su hijo confesándole una cosa: la enfermedad es degenerativa por lo que también le afectaría el, dejándole en blanco y Harry le promete que el continuará su investigación hasta el final cuando el no esté y podría morir también. Norman sonríe y ambos se van.
+- De esto no se entera Harry que andaba viendo el proyecto de su padre, Norman le dice a Harry que Gustav es un hombre de negocios muy importante y que el día que no esté, Gustav deberá hacerle caso a Harry en todas las ordenes asintiendo Gustav. Allí aparece de pronto el hombre que asesinó al tío Ben hablando Norman con el y Harry no sabía quien era pero le sonaba familiar, Norman y Gustav les dice que tendrá que acabar con esa molesta araña ya que podría molestarle en sus planes así que le dan unos guantes extraños y un traje y les dice que el se las ingenie para atraer al hombre araña y que le pagan muy bien: Herman Schultz, le dijeron. Herman les dice que está bien y se va a hacer su trabajo. Norman se marcha con Harry pero se detienen y Norman toca el hombro de su hijo confesándole una cosa: la enfermedad es degenerativa por lo que también le afectaría el, dejándole en blanco ya que el dolor de corazón y temblores que sentía era por eso y Harry le promete que el continuará su investigación junto a Stromm hasta el final cuando el no esté y podría morir también. Norman sonríe y ambos se van.
 
 
 ## Curiosidades
